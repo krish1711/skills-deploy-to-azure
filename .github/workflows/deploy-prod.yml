@@ -11,7 +11,7 @@ env:
   ### Replace  with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: krish1711-azure-ttt
-  AZURE_WEBAPP_NAME: kishore83d283-ttt-app
+  AZURE_WEBAPP_NAME: kishore8d283-ttt-app
   ###############################################
 
 jobs:
